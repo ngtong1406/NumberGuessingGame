@@ -1,9 +1,9 @@
-package main;
+
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class NumberGuessingGame {
 	
 	public static final String INTRO_MESSAGE = """
 			Welcome to the Number Guessing Game!
