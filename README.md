@@ -8,11 +8,11 @@ This is an exercise retrieved from roadmap.sh ([https://roadmap.sh/projects/numb
 ### Installation & Setup
 
 #### Windows 10/11
-- To install the game, simply navigate to the green 'Code' button on the main page of this repository, or click on [this link](https://github.com/ngtong1406/myportfolio).
+- To install the game, simply navigate to the green 'Code' button on the main page of this repository, or click on [this link](https://github.com/ngtong1406/NumberGuessingGame/archive/refs/heads/main.zip).
 - After installation, extract the compressed folder and open it. Right click on a blank space and select "Open in Terminal".
 - Type in the terminal `java -cp .\src\ NumberGuessingGame` and this will start the game.
 
 #### MacOS
-- To install the game, simply navigate to the green 'Code' button on the main page of this repository, or click on [this link](https://github.com/ngtong1406/myportfolio).
+- To install the game, simply navigate to the green 'Code' button on the main page of this repository, or click on [this link](https://github.com/ngtong1406/NumberGuessingGame/archive/refs/heads/main.zip).
 - After installation, extract the compressed folder and open it. Right click on the folder in the path bar at the bottom of your Finder window and select "Open in Terminal".
 - Type in the terminal `java -cp ./src/ NumberGuessingGame` and this will start the game.
